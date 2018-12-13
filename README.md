@@ -9,3 +9,6 @@
 $ git clone git@github.com:mmccooyyy/SublimeDecodeEncodedHTML.git DecodeEncodedHTML
 ```
 3. Restart Sublime
+
+# Usage
+Once installed, click Edit > Decode Encoded HTML.
