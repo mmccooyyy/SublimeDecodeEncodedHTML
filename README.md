@@ -6,5 +6,6 @@
    2. That's your package folder
 2. Clone this repo into that folder:
 ```
-$ git clone 
+$ git clone git@github.com:mmccooyyy/SublimeDecodeEncodedHTML.git DecodeEncodedHTML
 ```
+3. Restart Sublime
